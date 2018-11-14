@@ -1,0 +1,8 @@
+assesment\servlets\CreateServlet.class
+assesment\DAO\InventoryDetailsDAO.class
+assesment\DTO\InventoryDetailsDTO.class
+assesment\service\InventoryDetailsService.class
+assesment\servlets\DeleteServlet.class
+assesment\DAO\InventoryDetailsDAOImpl.class
+assesment\DAO\ExceptionExample.class
+assesment\service\InventoryDetailsServiceImpl.class
